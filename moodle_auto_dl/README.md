@@ -15,7 +15,7 @@ It calls the moodl-dl script periodically.
 
 | ENV		| Description					| Default value |
 | --------- | -----------					| ------------- |
-| WAITSEC	| Update intervall in seconds	| 7200s		    |
+| `WAITSEC`	| Update intervall in seconds	| 7200s		    |
 
 ## Volumes
 

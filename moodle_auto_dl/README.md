@@ -1,6 +1,6 @@
 # kerouace/moodle_auto_dl
 
-This is a docker image based on kerouace/moodle-dl, which is based on (Moodle-Downloader-2)[https://github.com/C0D3D3V/Moodle-Downloader-2].
+This is a docker image based on kerouace/moodle-dl, which is based on [Moodle-Downloader-2](https://github.com/C0D3D3V/Moodle-Downloader-2).
 It calls the moodl-dl script periodically.
 
 ## Initialization
